@@ -1,0 +1,36 @@
+Bag-of-Words + SVM (Treino: 70.0%) → F1-macro: 0.9073, F1-peso: 0.9073
+Bag-of-Words + k-NN (Treino: 70.0%) → F1-macro: 0.6190, F1-peso: 0.6190
+Bag-of-Words + k-Means (Treino: 70.0%) → F1-macro: 0.5338, F1-peso: 0.5338
+Bag-of-Words + One-Class SVM (Treino: 70.0%) → F1-macro: 0.1266, F1-peso: 0.1898
+Bag-of-Words + SVM (Treino: 80.0%) → F1-macro: 0.9155, F1-peso: 0.9155
+Bag-of-Words + k-NN (Treino: 80.0%) → F1-macro: 0.6154, F1-peso: 0.6154
+Bag-of-Words + k-Means (Treino: 80.0%) → F1-macro: 0.5295, F1-peso: 0.5296
+Bag-of-Words + One-Class SVM (Treino: 80.0%) → F1-macro: 0.1277, F1-peso: 0.1915
+Bag-of-Words + SVM (Treino: 90.0%) → F1-macro: 0.9137, F1-peso: 0.9137
+Bag-of-Words + k-NN (Treino: 90.0%) → F1-macro: 0.6096, F1-peso: 0.6097
+Bag-of-Words + k-Means (Treino: 90.0%) → F1-macro: 0.5220, F1-peso: 0.5221
+Bag-of-Words + One-Class SVM (Treino: 90.0%) → F1-macro: 0.1302, F1-peso: 0.1951
+Bag-of-Words + SVM (Treino: 70.0%) → F1-macro: 0.9073, F1-peso: 0.9073
+Bag-of-Words + k-NN (Treino: 70.0%) → F1-macro: 0.6190, F1-peso: 0.6190
+Bag-of-Words + k-Means (Treino: 70.0%) → F1-macro: 0.5338, F1-peso: 0.5338
+Bag-of-Words + One-Class SVM (Treino: 70.0%) → F1-macro: 0.1266, F1-peso: 0.1898
+Bag-of-Words + SVM (Treino: 80.0%) → F1-macro: 0.9155, F1-peso: 0.9155
+Bag-of-Words + k-NN (Treino: 80.0%) → F1-macro: 0.6154, F1-peso: 0.6154
+Bag-of-Words + k-Means (Treino: 80.0%) → F1-macro: 0.5295, F1-peso: 0.5296
+Bag-of-Words + One-Class SVM (Treino: 80.0%) → F1-macro: 0.1277, F1-peso: 0.1915
+Bag-of-Words + SVM (Treino: 90.0%) → F1-macro: 0.9137, F1-peso: 0.9137
+Bag-of-Words + k-NN (Treino: 90.0%) → F1-macro: 0.6096, F1-peso: 0.6097
+Bag-of-Words + k-Means (Treino: 90.0%) → F1-macro: 0.5220, F1-peso: 0.5221
+Bag-of-Words + One-Class SVM (Treino: 90.0%) → F1-macro: 0.1302, F1-peso: 0.1951
+Bag-of-Words + SVM (Treino: 70.0%) → F1-macro: 0.9073, F1-peso: 0.9073
+Bag-of-Words + k-NN (Treino: 70.0%) → F1-macro: 0.6190, F1-peso: 0.6190
+Bag-of-Words + k-Means (Treino: 70.0%) → F1-macro: 0.5338, F1-peso: 0.5338
+Bag-of-Words + One-Class SVM (Treino: 70.0%) → F1-macro: 0.1266, F1-peso: 0.1898
+Bag-of-Words + SVM (Treino: 80.0%) → F1-macro: 0.9155, F1-peso: 0.9155
+Bag-of-Words + k-NN (Treino: 80.0%) → F1-macro: 0.6154, F1-peso: 0.6154
+Bag-of-Words + k-Means (Treino: 80.0%) → F1-macro: 0.2864, F1-peso: 0.2864
+Bag-of-Words + One-Class SVM (Treino: 80.0%) → F1-macro: 0.1277, F1-peso: 0.1915
+Bag-of-Words + SVM (Treino: 90.0%) → F1-macro: 0.9137, F1-peso: 0.9137
+Bag-of-Words + k-NN (Treino: 90.0%) → F1-macro: 0.6096, F1-peso: 0.6097
+Bag-of-Words + k-Means (Treino: 90.0%) → F1-macro: 0.2905, F1-peso: 0.2903
+Bag-of-Words + One-Class SVM (Treino: 90.0%) → F1-macro: 0.1302, F1-peso: 0.1951

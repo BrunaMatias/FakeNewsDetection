@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+unidecode
+nltk
+scikit-learn
+keras
+openpyxl
